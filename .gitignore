@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Script
+script.js
+
 # Tailwind generated output
 src/output.css
 
