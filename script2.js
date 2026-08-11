@@ -36,5 +36,5 @@ function generatePassword() {
         password += allowedChars[randomIndex];
     }
 
-    result.innerHTML = `<p class="text-lg font-bold text-gray-300">${password}</p>`;
+    result.innerHTML = `<p class="text-lg break-all font-bold text-gray-300">${password}</p>`;
 };
